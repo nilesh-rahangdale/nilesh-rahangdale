@@ -2,11 +2,6 @@
 
 **Computer Science Engineer | Java Enthusiast | Web Developer | DSA Geek | Machine Learning Explorer**  
 ---
-- 🚀 **What I Do:**  
-  - Craft intuitive **web applications**  
-  - Explore the power of **Machine Learning**  
-  - Solve challenging **Data Structures & Algorithms** problems  
----
 ## 🛠️ My Tech Stack  
 - **Programming:** Java | Python  
 - **Web Development:** HTML | CSS | JavaScript  
