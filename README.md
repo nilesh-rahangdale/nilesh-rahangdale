@@ -1,6 +1,6 @@
 # Hey👋 I'm Nilesh Rahangdale
 
-**Computer Science Engineer | Java Backend Developer | React Native Developer | Full-Stack Enthusiast | DSA Geek**
+**Computer Science Engineer | Full-Stack Developer | Java Backend Developer | React Native Developer  **
 
 ---
 
